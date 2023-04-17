@@ -1,1 +1,1 @@
-https://zofiasylwisty.github.io/goit-markup-hw-05/
+https://zofiasylwisty.github.io/birds-rescue/
