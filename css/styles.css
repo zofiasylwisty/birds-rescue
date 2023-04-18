@@ -333,7 +333,7 @@ li {
   color: var(--third-color);
 }
 .term {
-  color: var(--sixth-color);
+  color: var(--seventh-color);
   font-family: "Roboto";
   font-size: 18px;
   font-weight: 700;
@@ -565,6 +565,7 @@ figure {
 .grid-container {
   width: 1182px;
   margin-left: 215px;
+  margin-top: 60px;
   margin-bottom: 94px;
 }
 .clients {
