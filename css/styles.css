@@ -377,10 +377,6 @@ li {
   width: 100%;
   max-width: 370px;
 }
-.photograph {
-  display: block;
-  height: auto;
-}
 .photograph-text {
   font-family: "Roboto";
   font-size: 14px;
@@ -419,8 +415,9 @@ figure {
   align-items: center;
 }
 .person {
-  padding-top: 30px;
-  margin-bottom: 10px;
+  padding-top: 20px;
+  margin-bottom: 20px;
+  color: #2f303a;
 }
 .social-media {
   display: flex;
