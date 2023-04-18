@@ -313,8 +313,11 @@ li {
   font-size: 36px;
   font-weight: 700;
   line-height: 1.16;
-  color: var(--fifth-color);
+  color: var(--seventh-color);
   text-align: center;
+}
+.second-container {
+  margin-top: -100px;
 }
 .name {
   font-family: "Roboto";
